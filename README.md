@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML: unclosed tags.  The `bug.html` file contains the erroneous code.  The `bugSolution.html` file shows the corrected version.  Unclosed tags can cause unexpected visual results in browsers and prevent proper validation using tools like the W3C Markup Validation Service.
